@@ -1,0 +1,4 @@
+petrov 10
+mamontov 15
+ivanov 35
+putin 20
